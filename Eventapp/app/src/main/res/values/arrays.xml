@@ -1,0 +1,25 @@
+<resources>
+<string-array name="CategoryValues">
+    <item>All</item>
+    <item>Music</item>
+    <item>Sports</item>
+    <item>Arts &amp; Theatre</item>
+    <item>Film</item>
+    <item>Miscellaneous</item>
+</string-array >
+
+
+    <string-array name="SegmentIDs">
+        <item>""</item>
+        <item>KZFzniwnSyZfZ7v7nJ</item>
+        <item>KZFzniwnSyZfZ7v7nE</item>
+        <item>KZFzniwnSyZfZ7v7na</item>
+        <item>KZFzniwnSyZfZ7v7nn</item>
+        <item>KZFzniwnSyZfZ7v7n1</item>
+    </string-array >
+
+    <string-array name="distancetype">
+        <item>miles</item>
+        <item>kilometers</item>
+    </string-array >
+</resources>
